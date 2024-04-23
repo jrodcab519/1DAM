@@ -138,7 +138,7 @@ public class CocheDaoImpl implements CocheDao {
             int fila = ps.executeUpdate();
 
             /***
-             /// codigo para recuperrar secuencia de base de datos
+             /// codigo para recuperar secuencia de base de datos
              if(fila > 0){
              ResultSet keys = ps.getGeneratedKeys();
              if(keys.next()){
