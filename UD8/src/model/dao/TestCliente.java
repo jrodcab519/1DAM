@@ -1,4 +1,4 @@
-package datasource;
+package model.dao;
 import model.dao.ClienteDao;
 import model.dao.DAOFactory;
 import model.entities.Cliente;
